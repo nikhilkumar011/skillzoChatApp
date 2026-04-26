@@ -86,7 +86,7 @@ root/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/chatapp.git
+git clone https://github.com/nikhilkumar011/skillzoChatApp.git
 cd chatapp
 ```
 
