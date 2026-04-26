@@ -1,4 +1,4 @@
-# 💬 ChatApp — Real-Time Group Chat Application
+# 💬 Skillzo ChatApp — Real-Time Group Chat Application
 
 A full-stack real-time group chat application built with **React**, **Node.js**, **Socket.IO**, and **MongoDB**. Users can sign up, create or join groups, and chat in real time with file sharing, emoji support, and typing indicators.
 
